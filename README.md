@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
   
 ### 🚀 About Me
-I'm a Full Stack developer (with particular love for Front-End technologies), educator (teaching for [BrainStation](http://brainstation.io/)), musician ((https://mixcloud.com/monogammee)[selector] and [maker](https://open.spotify.com/artist/0njszUF4sEjhz5faWDYtv5)) and collector.
+I'm a Full Stack developer (with particular love for Front-End technologies), educator (teaching for [BrainStation](http://brainstation.io/)), musician ([selector](https://mixcloud.com/monogammee) and [maker](https://open.spotify.com/artist/0njszUF4sEjhz5faWDYtv5)) and collector.
 
   
 ### 📫 How to Reach Me
