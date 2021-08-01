@@ -40,7 +40,8 @@ SASS,
 SQL, 
 Svelte (Sapper), 
 Vue.js, 
-Webpack
+Webpack,
+DevOps
 
 ### 🔭 Currently Working On
 
