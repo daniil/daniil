@@ -28,6 +28,7 @@ I'm a Full Stack developer (with particular love for Front-End technologies), ed
 ### 🛠 Skills
 HTML,
 CSS,
+DevOps (AWS, Docker, Jenkins)
 JavaScript,
 GraphQL,
 JSS (styled-components),
@@ -41,9 +42,8 @@ SQL,
 Svelte (Sapper), 
 Vue.js, 
 Webpack,
-DevOps
 
 ### 🔭 Currently Working On
 
-- [Union Booth](https://github.com/daniil/union-booth)
+- [AWS EC2 Full Stack JS Deployment](https://github.com/daniil/full-stack-js-ec2-tutorial)
   
