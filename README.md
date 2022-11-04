@@ -45,5 +45,5 @@ Webpack,
 
 ### 🔭 Currently Working On
 
-- [AWS EC2 Full Stack JS Deployment](https://github.com/daniil/full-stack-js-ec2-tutorial)
+- [AWS EC2 Full Stack JS Deployment Tutorial](https://github.com/daniil/full-stack-js-ec2-tutorial)
   
