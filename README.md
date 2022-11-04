@@ -41,7 +41,7 @@ SASS,
 SQL, 
 Svelte (Sapper), 
 Vue.js, 
-Webpack,
+Webpack
 
 ### 🔭 Currently Working On
 
