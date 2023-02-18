@@ -45,7 +45,7 @@ Webpack
 
 ### 🔭 Most Recent Work
 
-#### Developer Pep Talks
+#### 🦉 Developer Pep Talks
 
 - [New Developers Advice](https://github.com/daniil/new-developers-advice)
 
