@@ -45,6 +45,10 @@ Webpack
 
 ### 🔭 Most Recent Work
 
+#### Developer Pep Talks
+
+- [New Developer Advice](https://github.com/daniil/new-developers-advice)
+
 #### 🎓 Bitesize Learn the Concept Apps 
 
 - [Full Stack JS Netlify Deployment](https://github.com/daniil/full-stack-netlify)
