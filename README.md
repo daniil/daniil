@@ -47,7 +47,7 @@ Webpack
 
 #### Developer Pep Talks
 
-- [New Developer Advice](https://github.com/daniil/new-developers-advice)
+- [New Developers Advice](https://github.com/daniil/new-developers-advice)
 
 #### 🎓 Bitesize Learn the Concept Apps 
 
