@@ -51,8 +51,11 @@ Webpack
 
 #### 🎓 Bitesize Learn the Concept Apps 
 
-- [Full Stack JS Netlify Deployment](https://github.com/daniil/full-stack-netlify)
-- [React + Express File Upload](https://github.com/daniil/react-express-file-upload)
-- [AWS EC2 Full Stack JS Deployment Tutorial](https://github.com/daniil/full-stack-js-ec2-tutorial)
 - [Full Stack JS (React, Express, MySQL) Docker Tutorial](https://github.com/daniil/full-stack-js-docker-tutorial)
+- [AWS EC2 Full Stack JS Deployment Tutorial](https://github.com/daniil/full-stack-js-ec2-tutorial)
+- [Full Stack JS Netlify Deployment](https://github.com/daniil/full-stack-netlify)
+- [React + Express + AWS S3 File Upload](https://github.com/daniil/react-express-aws-s3)
+- [React + Express File Upload](https://github.com/daniil/react-express-file-upload)
+
+
   
